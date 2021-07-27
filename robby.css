@@ -1,0 +1,81 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 135%;
+}
+
+.wrap {
+    width: 100%;
+    height: 135%;
+    
+}
+
+.header {
+    width: 100%;
+    height:6%;
+    background-color: #476260;
+}
+.site {
+    height: 23%;
+    background-color: #2f4442;
+}
+.myMenu {
+    height: 47%;
+}
+.mainMenu {
+    height: 35%;
+    background-color: #fff;
+}
+
+
+.section {
+    width: 100%;
+    height: 114%;
+    background-color: #888;
+    border : 1px solid black;
+}
+.slider {
+    width: 100%;
+    height: 20%;
+    border : 1px solid blue;
+}
+.mainMenuDetail {
+    width: 70%;
+    height: 5%;
+    border : 1px solid red;
+    margin : 0 auto;
+}
+.detailBox {
+    width: 68%;
+    height: 40%;
+    border : 1px solid orange;
+    margin : 0 auto;
+    padding : 1%;
+}
+.box {
+    margin : 0 auto;
+    float: left;
+    width: 24%;
+    height: 33%;
+    border : 1px solid black;
+    background-color: darkcyan;
+}
+.footer {
+    width: 100%;
+    height: 15%;
+    background-color: #888;
+}
+.footer div {
+    margin : 0 auto;
+}
+.infoLink {
+    width: 70%;
+    border-bottom: 1px solid #aaa;
+    padding-bottom: 1%;
+}
+.info {
+    width: 40%;
+    padding-top: 3%;
+
+}
